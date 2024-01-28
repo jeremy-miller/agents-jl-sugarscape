@@ -1,0 +1,8 @@
+name = "sugarscape"
+uuid = "7dd19369-4b0f-44d5-aad8-55674532c2b1"
+authors = ["Jeremy Miller <jeremymiller@fastmail.com>"]
+version = "0.1.0"
+
+[deps]
+Agents = "46ada45e-f475-11e8-01d0-f70cc89e6671"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
