@@ -10,4 +10,5 @@ modeled using Julia's [Agents.jl](https://juliadynamics.github.io/Agents.jl/stab
 
 ## Run
 
-To run Pluto: `julia src/sugarscape.jl`
+1. Activate Julia environment: `julia --project=.`
+2. Run: `julia src/sugarscape.jl`
