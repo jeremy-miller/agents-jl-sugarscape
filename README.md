@@ -1,7 +1,8 @@
 # Sugarscape with Traders
 
 [Sugarscape with traders](https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/sugarscape/)
-modeled using Julia's [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/) package.
+modeled using Julia's [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/) package, based on
+[this](https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/sugarscape/#Sugarscape) example.
 
 ## Setup
 
